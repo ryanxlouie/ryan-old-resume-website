@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b4fb9fa.chunk.css",
-    "main.js": "/static/js/main.7167a84e.chunk.js",
-    "main.js.map": "/static/js/main.7167a84e.chunk.js.map",
+    "main.css": "/static/css/main.642f8b80.chunk.css",
+    "main.js": "/static/js/main.97644e64.chunk.js",
+    "main.js.map": "/static/js/main.97644e64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76792e8e.js",
     "runtime-main.js.map": "/static/js/runtime-main.76792e8e.js.map",
     "static/css/2.67123b20.chunk.css": "/static/css/2.67123b20.chunk.css",
-    "static/js/2.0376ee69.chunk.js": "/static/js/2.0376ee69.chunk.js",
-    "static/js/2.0376ee69.chunk.js.map": "/static/js/2.0376ee69.chunk.js.map",
+    "static/js/2.f86f2f08.chunk.js": "/static/js/2.f86f2f08.chunk.js",
+    "static/js/2.f86f2f08.chunk.js.map": "/static/js/2.f86f2f08.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5143cd974b4e327521785e43aac62a65.js": "/precache-manifest.5143cd974b4e327521785e43aac62a65.js",
+    "precache-manifest.09c8f7aa4958fb06ff6f63e1b783124e.js": "/precache-manifest.09c8f7aa4958fb06ff6f63e1b783124e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.6b4fb9fa.chunk.css.map": "/static/css/main.6b4fb9fa.chunk.css.map",
-    "static/js/2.0376ee69.chunk.js.LICENSE.txt": "/static/js/2.0376ee69.chunk.js.LICENSE.txt"
+    "static/css/main.642f8b80.chunk.css.map": "/static/css/main.642f8b80.chunk.css.map",
+    "static/js/2.f86f2f08.chunk.js.LICENSE.txt": "/static/js/2.f86f2f08.chunk.js.LICENSE.txt",
+    "static/media/ExpressIcon.png": "/static/media/ExpressIcon.23f74061.png",
+    "static/media/MountFuji.jpg": "/static/media/MountFuji.22716d5c.jpg",
+    "static/media/ProfilePic2.jpg": "/static/media/ProfilePic2.eb663c56.jpg",
+    "static/media/PythonIcon.png": "/static/media/PythonIcon.067050f6.png",
+    "static/media/ReactIcon.png": "/static/media/ReactIcon.47ce6e77.png",
+    "static/media/VolleyballIcon.png": "/static/media/VolleyballIcon.d8350607.png",
+    "static/media/XboxIcon.png": "/static/media/XboxIcon.cac86d7b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76792e8e.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.0376ee69.chunk.js",
-    "static/css/main.6b4fb9fa.chunk.css",
-    "static/js/main.7167a84e.chunk.js"
+    "static/js/2.f86f2f08.chunk.js",
+    "static/css/main.642f8b80.chunk.css",
+    "static/js/main.97644e64.chunk.js"
   ]
 }
