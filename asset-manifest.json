@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d80dd8c2.chunk.css",
-    "main.js": "/static/js/main.f7fb107e.chunk.js",
-    "main.js.map": "/static/js/main.f7fb107e.chunk.js.map",
+    "main.css": "/static/css/main.9f5cfe25.chunk.css",
+    "main.js": "/static/js/main.43cb16b3.chunk.js",
+    "main.js.map": "/static/js/main.43cb16b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.76792e8e.js",
     "runtime-main.js.map": "/static/js/runtime-main.76792e8e.js.map",
-    "static/css/2.ab01c588.chunk.css": "/static/css/2.ab01c588.chunk.css",
-    "static/js/2.9c27317f.chunk.js": "/static/js/2.9c27317f.chunk.js",
-    "static/js/2.9c27317f.chunk.js.map": "/static/js/2.9c27317f.chunk.js.map",
+    "static/css/2.156c33fd.chunk.css": "/static/css/2.156c33fd.chunk.css",
+    "static/js/2.612b63a8.chunk.js": "/static/js/2.612b63a8.chunk.js",
+    "static/js/2.612b63a8.chunk.js.map": "/static/js/2.612b63a8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.42b0759c5548ec6b0ce35608f9307ef3.js": "/precache-manifest.42b0759c5548ec6b0ce35608f9307ef3.js",
+    "precache-manifest.66b28830c3f3fb8ed6cb9343beaa7036.js": "/precache-manifest.66b28830c3f3fb8ed6cb9343beaa7036.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.ab01c588.chunk.css.map": "/static/css/2.ab01c588.chunk.css.map",
-    "static/css/main.d80dd8c2.chunk.css.map": "/static/css/main.d80dd8c2.chunk.css.map",
-    "static/js/2.9c27317f.chunk.js.LICENSE.txt": "/static/js/2.9c27317f.chunk.js.LICENSE.txt",
+    "static/css/2.156c33fd.chunk.css.map": "/static/css/2.156c33fd.chunk.css.map",
+    "static/css/main.9f5cfe25.chunk.css.map": "/static/css/main.9f5cfe25.chunk.css.map",
+    "static/js/2.612b63a8.chunk.js.LICENSE.txt": "/static/js/2.612b63a8.chunk.js.LICENSE.txt",
     "static/media/ExpressIcon.png": "/static/media/ExpressIcon.23f74061.png",
     "static/media/GithubIcon.png": "/static/media/GithubIcon.438c93c0.png",
     "static/media/MarketDashboard.png": "/static/media/MarketDashboard.a66bc159.png",
@@ -38,9 +38,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.76792e8e.js",
-    "static/css/2.ab01c588.chunk.css",
-    "static/js/2.9c27317f.chunk.js",
-    "static/css/main.d80dd8c2.chunk.css",
-    "static/js/main.f7fb107e.chunk.js"
+    "static/css/2.156c33fd.chunk.css",
+    "static/js/2.612b63a8.chunk.js",
+    "static/css/main.9f5cfe25.chunk.css",
+    "static/js/main.43cb16b3.chunk.js"
   ]
 }
