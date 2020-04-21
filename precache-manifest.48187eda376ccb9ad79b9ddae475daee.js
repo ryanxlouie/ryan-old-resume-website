@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "334d2ad8cea8c85bab4fe317de55d3a4",
+    "revision": "17340c9c602259c52da0b0413077ef52",
     "url": "/index.html"
   },
   {
-    "revision": "4716451400f046047d91",
+    "revision": "ac667ce972bb51238312",
     "url": "/static/css/2.ba47a046.chunk.css"
   },
   {
-    "revision": "a5d69ff229f52863e5e0",
+    "revision": "75dde7dcb36fa022c4cc",
     "url": "/static/css/main.d4eab66f.chunk.css"
   },
   {
-    "revision": "4716451400f046047d91",
-    "url": "/static/js/2.4a0eb427.chunk.js"
+    "revision": "ac667ce972bb51238312",
+    "url": "/static/js/2.01af37cb.chunk.js"
   },
   {
     "revision": "e933f8dbfdf496cb72e495663a499a00",
-    "url": "/static/js/2.4a0eb427.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.01af37cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5d69ff229f52863e5e0",
-    "url": "/static/js/main.063e9fa1.chunk.js"
+    "revision": "75dde7dcb36fa022c4cc",
+    "url": "/static/js/main.6f7bd8bb.chunk.js"
   },
   {
     "revision": "f1380d0127b6b6a6e374",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1a82da9bd5937e70242b2d8a8ced9c2a",
     "url": "/static/media/CraterLake2p30.1a82da9b.jpg"
+  },
+  {
+    "revision": "093d1991db0ba12391bfdc10b4728557",
+    "url": "/static/media/DollarCostAverage.093d1991.png"
   },
   {
     "revision": "23f74061b8ae85e26e49392790b7f124",
@@ -106,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9279b44ee9ef4f5e8f851cd5eaeb390e",
     "url": "/static/media/LinkedinIcon.9279b44e.png"
-  },
-  {
-    "revision": "a66bc159659c1775f8e8ea0c28e0b4d3",
-    "url": "/static/media/MarketDashboard.a66bc159.png"
   },
   {
     "revision": "e45bd7abe7a2a303811fd60528bb88a6",
